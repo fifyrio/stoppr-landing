@@ -4,7 +4,7 @@ import Image from "next/image"
 
 export function Hero() {
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden px-4">
+    <section className="relative min-h-screen flex items-center justify-center overflow-hidden px-4 pt-16">
       {/* Animated background gradient */}
       <div className="absolute inset-0 bg-gradient-to-b from-background via-background to-card" />
 
