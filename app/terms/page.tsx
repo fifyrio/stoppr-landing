@@ -197,8 +197,8 @@ export default function TermsOfService() {
                 If you have any questions about these Terms of Service, please contact us at:
               </p>
               <div className="bg-card p-6 rounded-lg border border-border">
-                <p className="text-foreground">Email: support@stoppr.app</p>
-                <p className="text-foreground">Website: www.stoppr.app</p>
+                <p className="text-foreground">Email: support@stoppr.xyz</p>
+                <p className="text-foreground">Website: www.stoppr.xyz</p>
               </div>
             </section>
 

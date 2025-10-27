@@ -48,7 +48,7 @@ export default function AffiliatePage() {
               className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold px-8 py-6 text-lg neon-border"
               asChild
             >
-              <a href="mailto:creator@stoppr.app">
+              <a href="mailto:creator@stoppr.xyz">
                 <Zap className="mr-2 h-5 w-5" />
                 Start Earning Now
               </a>
@@ -200,7 +200,7 @@ export default function AffiliatePage() {
               className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold px-8 py-6 text-lg neon-border"
               asChild
             >
-              <a href="mailto:creator@stoppr.app">
+              <a href="mailto:creator@stoppr.xyz">
                 <Zap className="mr-2 h-5 w-5" />
                 Apply Now
               </a>
